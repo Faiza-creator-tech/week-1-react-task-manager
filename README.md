@@ -109,5 +109,5 @@ npm run build
 
 ## Author
 
-Faiza 
+Faiza-creator-tech
 AUREX Full-Stack Internship, Month 2, Week 1
